@@ -1,6 +1,7 @@
 # Bowling-point algoritme 
 
-Projektet findes i src/ folderen
+Projektet findes i src/ folderen.
+
 Tests findes i tests/unit/ folderen
 
 Hent data ind ved at klikke på det blå 'Load Data from API' knap øverst til højre. Knappen kan klikkes mange gange 
